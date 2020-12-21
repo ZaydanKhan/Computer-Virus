@@ -1,1 +1,2 @@
 # Computer-Virus
+Computer viruses come in a variety of different forms, and each have their own characteristics, which makes it important for computer users to understand how different viruses work and how to detect them. The data forensics specialists at Atlantic Data Forensics have sorted viruses in 10 different types. They are: browser hijacker, direct action virus, resident virus, boot sector virus, file virus, macro virus, multipartite virus, polymorphic virus, stealth virus and web scripting virus.
